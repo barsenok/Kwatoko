@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Auto-generated port of ru Localization.strings -->
+<resources>
+    <string name="account">Счёт</string>
+    <string name="add">Добавить</string>
+    <string name="ask_close_account">Вы уверены, что хотите закрыть счёт?</string>
+    <string name="ask_delete_all_robots">Вы уверены, что хотите удалить робота?</string>
+    <string name="ask_logout">Вы уверены что хотите выйти?</string>
+    <string name="ask_logout_message">Все данные (роботы, конфигурации, история) будут безвозвратно удалены</string>
+    <string name="ask_stop_robot">Вы уверены, что хотите остановить робота?</string>
+    <string name="attention">Внимание!</string>
+    <string name="attention_message">Все сделки будут совершаться на реальной бирже.
+Будьте внимательны с работой робота</string>
+    <string name="cancel">Отмена</string>
+    <string name="chart">График</string>
+    <string name="close">Закрыть</string>
+    <string name="close_deal">Закрытие сделки</string>
+    <string name="compliance_message">Нажимая &quot;Войти&quot;, я подтверждаю, что осознаю все риски торговли роботом на реальной бирже и беру на себя всю ответственность за выставленные заявки</string>
+    <string name="configuration">Конфигурация</string>
+    <string name="currencies">Валюты</string>
+    <string name="deal">Сделка</string>
+    <string name="deals">Сделки</string>
+    <string name="delete">Удалить</string>
+    <string name="direction_any">Любое</string>
+    <string name="direction_buy">Покупка</string>
+    <string name="direction_sell">Продажа</string>
+    <string name="error">Ошибка</string>
+    <string name="error_select_account">Перейдите в &quot;Профиль&quot; и выберите текущий счёт</string>
+    <string name="exchange">Биржа</string>
+    <string name="field_depth">Глубина стакана</string>
+    <string name="field_edge_quantity">Объем аномальной заявки</string>
+    <string name="field_name">Название робота</string>
+    <string name="field_order_delta">Дельта цены заявки</string>
+    <string name="field_order_direction">Направление торговли</string>
+    <string name="field_order_quantity">Объем торгуемой заявки</string>
+    <string name="field_stop_loss_percent">Стоп-лосс (\% от цены заявки)</string>
+    <string name="field_take_profit_percent">Тейк-профит (\% от цены заявки)</string>
+    <string name="glass">Стакан</string>
+    <string name="history">История</string>
+    <string name="how_get_token">Как получить токены?</string>
+    <string name="id">ID</string>
+    <string name="information">Профиль</string>
+    <string name="instrument">Инструмент</string>
+    <string name="instruments">Инструменты</string>
+    <string name="login">Войти</string>
+    <string name="logout">Выйти</string>
+    <string name="open_deal">Открытие сделки</string>
+    <string name="open_new">Открыть новый</string>
+    <string name="opened">Открыт</string>
+    <string name="order">заявка</string>
+    <string name="pay_in">Пополнить</string>
+    <string name="pay_in_amount">Сумма пополнения</string>
+    <string name="pay_in_other">Пополнение доступно только в рублях.
+Чтобы пополнить другую валюту, будет совершено пополнение в рублях на сумму приблизительно эквивалентную сумме валюты с последующей покупкой указанной валюты
+Если произойдет ошибка - попробуйте указать меньшую сумму
+
+Покупка иностранной валюты может происходить с задержкой из-за особенностей работы песочницы. Если обновление баланса не произойдет моментально - попробуйте вернуться позже и проверить баланс снова</string>
+    <string name="pay_in_rub">Введите сумму, на которую хотите совершить пополнение</string>
+    <string name="paying_in">Пополнение</string>
+    <string name="profile">Профиль</string>
+    <string name="quantity">Объем</string>
+    <string name="reload">Обновить</string>
+    <string name="robot">Робот</string>
+    <string name="robots">Роботы</string>
+    <string name="ruble">Рубль</string>
+    <string name="run_all">Запустить все</string>
+    <string name="runned">Запущено: %1$s</string>
+    <string name="sandbox">Песочница</string>
+    <string name="save">Сохранить</string>
+    <string name="select_instrument">Выберите инструмент</string>
+    <string name="select_strategy">Выберите стратегию</string>
+    <string name="selected">Текущий</string>
+    <string name="shares">Акции</string>
+    <string name="stop">Остановить</string>
+    <string name="stop_loss">стоп-лосс</string>
+    <string name="strategies">Стратегии</string>
+    <string name="strategy">Стратегия</string>
+    <string name="strategy_title_contest">Торговля по стакану</string>
+    <string name="strategy_title_contest_demo">Демо: торговля по стакану</string>
+    <string name="take_profit">тейк-профит</string>
+    <string name="title">Название</string>
+    <string name="tokenExchange">Токен биржи</string>
+    <string name="tokenSandbox">Токен песочницы</string>
+    <string name="tutorial_page_0">У инструмента можно вычислить среднее значение объема в заявках</string>
+    <string name="tutorial_page_1">Иногда выставляются заявки, которые на порядки превышают это значение - аномальные</string>
+    <string name="tutorial_page_2">Когда заявка оказывается в центре стакана, высока вероятность, что у продавцов (или покупателей) не получится сразу реализовать эту заявку</string>
+    <string name="tutorial_page_3">Тогда происходит небольшой отскок цены</string>
+    <string name="tutorial_page_4">Когда робот выдит аномальную заявку в стакане, он выставляет свою перед ней</string>
+    <string name="tutorial_page_5">Задача робота: заработать на отскоке от аномальной заявки</string>
+    <string name="tutorial_page_6">Параметры робота</string>
+</resources>

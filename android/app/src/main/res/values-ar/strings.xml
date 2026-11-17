@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Auto-generated port of ar Localization.strings -->
+<resources>
+    <string name="account">يفحص</string>
+    <string name="add">يضيف</string>
+    <string name="ask_close_account">هل أنت متأكد أنك تريد إغلاق الحساب؟</string>
+    <string name="ask_delete_all_robots">هل أنت متأكد أنك تريد حذف الروبوت؟</string>
+    <string name="ask_logout">هل أنت متأكد أنك تريد الخروج؟</string>
+    <string name="ask_logout_message">سيتم حذف جميع البيانات (الروبوتات والتكوينات والمحفوظات) نهائيًا</string>
+    <string name="ask_stop_robot">هل أنت متأكد أنك تريد إيقاف الروبوت؟</string>
+    <string name="attention">انتباه!</string>
+    <string name="attention_message">سيتم إجراء جميع المعاملات في بورصة حقيقية.
+كن حذرا مع تشغيل الروبوت</string>
+    <string name="cancel">يلغي</string>
+    <string name="chart">جدول</string>
+    <string name="close">يغلق</string>
+    <string name="close_deal">إتمام الصفقة</string>
+    <string name="compliance_message">بالنقر فوق &quot;تسجيل الدخول&quot; ، أؤكد أنني على دراية بجميع مخاطر التداول باستخدام روبوت في بورصة حقيقية وأتحمل المسؤولية الكاملة عن الطلبات المقدمة</string>
+    <string name="configuration">إعدادات</string>
+    <string name="currencies">العملات</string>
+    <string name="deal">اتفاق</string>
+    <string name="deals">صفقات</string>
+    <string name="delete">يمسح</string>
+    <string name="direction_any">أي</string>
+    <string name="direction_buy">شراء</string>
+    <string name="direction_sell">أُوكَازيُون</string>
+    <string name="error">خطأ</string>
+    <string name="error_select_account">انتقل إلى &quot;الملف الشخصي&quot; وحدد الحساب الحالي</string>
+    <string name="exchange">تبادل</string>
+    <string name="field_depth">عمق الكوب</string>
+    <string name="field_edge_quantity">حجم أمر شاذ</string>
+    <string name="field_name">اسم الروبوت</string>
+    <string name="field_order_delta">طلب دلتا سعر</string>
+    <string name="field_order_direction">اتجاه التجارة</string>
+    <string name="field_order_quantity">حجم الأمر المتداول</string>
+    <string name="field_stop_loss_percent">وقف الخسارة (٪ من سعر الأمر)</string>
+    <string name="field_take_profit_percent">جني الأرباح (٪ من سعر الأمر)</string>
+    <string name="glass">كوب</string>
+    <string name="history">قصة</string>
+    <string name="how_get_token">كيف تحصل على التوكنز؟</string>
+    <string name="id">بطاقة تعريف</string>
+    <string name="information">حساب تعريفي</string>
+    <string name="instrument">أداة</string>
+    <string name="instruments">أدوات</string>
+    <string name="login">ليأتي</string>
+    <string name="logout">الخروج</string>
+    <string name="open_deal">فتح صفقة</string>
+    <string name="open_new">فتح جديد</string>
+    <string name="opened">يفتح</string>
+    <string name="order">طلب</string>
+    <string name="pay_in">فوق حتى</string>
+    <string name="pay_in_amount">مبلغ التعبئة</string>
+    <string name="pay_in_other">التجديد متاح فقط في روبل.
+لتجديد عملة أخرى ، سيتم تجديد الموارد بالروبل بمبلغ يعادل تقريبًا مبلغ العملة ، متبوعًا بشراء العملة المحددة
+في حالة حدوث خطأ ، حاول تحديد مبلغ أصغر
+
+شراء عملة أجنبية قد يتأخر بسبب خصائص الصندوق الرمل. إذا لم يتم تحديث الرصيد على الفور - حاول العودة لاحقًا وتحقق من الرصيد مرة أخرى</string>
+    <string name="pay_in_rub">أدخل المبلغ الذي تريد تعبئته</string>
+    <string name="paying_in">التجديد</string>
+    <string name="profile">حساب تعريفي</string>
+    <string name="quantity">مقدار</string>
+    <string name="reload">ينعش</string>
+    <string name="robot">إنسان آلي</string>
+    <string name="robots">الروبوتات</string>
+    <string name="ruble">روبل</string>
+    <string name="run_all">تشغيل الكل</string>
+    <string name="runned">بدأ: %1$s</string>
+    <string name="sandbox">صندوق الرمل</string>
+    <string name="save">يحفظ</string>
+    <string name="select_instrument">اختر أداة</string>
+    <string name="select_strategy">اختر استراتيجية</string>
+    <string name="selected">حاضِر</string>
+    <string name="shares">مخزون</string>
+    <string name="stop">قف</string>
+    <string name="stop_loss">إيقاف الخسارة</string>
+    <string name="strategies">الاستراتيجيات</string>
+    <string name="strategy">إستراتيجية</string>
+    <string name="strategy_title_contest">تجارة الزجاج</string>
+    <string name="strategy_title_contest_demo">العرض التوضيحي: عمق السوق</string>
+    <string name="take_profit">اخذ ربح</string>
+    <string name="title">اسم</string>
+    <string name="tokenExchange">تبادل الرمز</string>
+    <string name="tokenSandbox">رمز Sandbox</string>
+    <string name="tutorial_page_0">بالنسبة للأداة المالية ، يمكنك حساب متوسط قيمة الحجم في الأوامر</string>
+    <string name="tutorial_page_1">في بعض الأحيان يتم وضع أوامر ذات حجم أعلى من هذه القيمة - شاذة</string>
+    <string name="tutorial_page_2">عندما يكون الطلب في وسط دفتر الطلبات ، فهناك احتمال كبير بأن البائعين (أو المشترين) لن يتمكنوا من ملء هذا الطلب على الفور</string>
+    <string name="tutorial_page_3">ثم هناك ارتداد بسيط للسعر.</string>
+    <string name="tutorial_page_4">عندما يصدر الروبوت أمرًا شاذًا في دفتر الطلبات ، فإنه يضع ترتيبًا خاصًا به أمامه</string>
+    <string name="tutorial_page_5">مهمة الروبوت: كسب المال من الارتداد من أمر شاذ</string>
+    <string name="tutorial_page_6">معلمات الروبوت</string>
+</resources>
