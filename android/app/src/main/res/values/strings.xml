@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Auto-generated port of en Localization.strings -->
+<resources>
+    <string name="account">Check</string>
+    <string name="add">Add</string>
+    <string name="ask_close_account">Are you sure you want to close the account?</string>
+    <string name="ask_delete_all_robots">Are you sure you want to delete the robot?</string>
+    <string name="ask_logout">Are you sure you want to exit?</string>
+    <string name="ask_logout_message">All data (robots, configurations, history) will be permanently deleted</string>
+    <string name="ask_stop_robot">Are you sure you want to stop the robot?</string>
+    <string name="attention">Attention!</string>
+    <string name="attention_message">All transactions will be made on a real exchange.
+Be careful with robot operation</string>
+    <string name="cancel">Cancel</string>
+    <string name="chart">Schedule</string>
+    <string name="close">close</string>
+    <string name="close_deal">Closing the deal</string>
+    <string name="compliance_message">By clicking &quot;Login&quot;, I confirm that I am aware of all the risks of trading with a robot on a real exchange and take full responsibility for the submitted orders</string>
+    <string name="configuration">Configuration</string>
+    <string name="currencies">Currencies</string>
+    <string name="deal">Deal</string>
+    <string name="deals">Deals</string>
+    <string name="delete">Delete</string>
+    <string name="direction_any">Any</string>
+    <string name="direction_buy">Purchase</string>
+    <string name="direction_sell">Sale</string>
+    <string name="error">Error</string>
+    <string name="error_select_account">Go to &quot;Profile&quot; and select the current account</string>
+    <string name="exchange">Exchange</string>
+    <string name="field_depth">Cup depth</string>
+    <string name="field_edge_quantity">Anomalous order volume</string>
+    <string name="field_name">Robot name</string>
+    <string name="field_order_delta">Order price delta</string>
+    <string name="field_order_direction">Direction of trade</string>
+    <string name="field_order_quantity">Volume of traded order</string>
+    <string name="field_stop_loss_percent">Stop Loss (\% of order price)</string>
+    <string name="field_take_profit_percent">Take profit (\% of order price)</string>
+    <string name="glass">Cup</string>
+    <string name="history">Story</string>
+    <string name="how_get_token">How to get tokens?</string>
+    <string name="id">ID</string>
+    <string name="information">Profile</string>
+    <string name="instrument">Tool</string>
+    <string name="instruments">Tools</string>
+    <string name="login">To come in</string>
+    <string name="logout">Go out</string>
+    <string name="open_deal">Opening a deal</string>
+    <string name="open_new">open new</string>
+    <string name="opened">open</string>
+    <string name="order">application</string>
+    <string name="pay_in">Top up</string>
+    <string name="pay_in_amount">Top-up amount</string>
+    <string name="pay_in_other">Replenishment is available only in rubles.
+To replenish another currency, a replenishment in rubles will be made in an amount approximately equivalent to the amount of the currency, followed by the purchase of the specified currency
+If an error occurs, try specifying a smaller amount
+
+Purchase of foreign currency may be delayed due to the peculiarities of the sandbox. If the balance update does not happen immediately - try to come back later and check the balance again</string>
+    <string name="pay_in_rub">Enter the amount you want to top up</string>
+    <string name="paying_in">Replenishment</string>
+    <string name="profile">Profile</string>
+    <string name="quantity">Volume</string>
+    <string name="reload">Refresh</string>
+    <string name="robot">Robot</string>
+    <string name="robots">robots</string>
+    <string name="ruble">Ruble</string>
+    <string name="run_all">Run All</string>
+    <string name="runned">Started: %1$s</string>
+    <string name="sandbox">Sandbox</string>
+    <string name="save">Save</string>
+    <string name="select_instrument">Choose a tool</string>
+    <string name="select_strategy">Choose a strategy</string>
+    <string name="selected">Current</string>
+    <string name="shares">Stock</string>
+    <string name="stop">Stop</string>
+    <string name="stop_loss">stop loss</string>
+    <string name="strategies">Strategies</string>
+    <string name="strategy">Strategy</string>
+    <string name="strategy_title_contest">Glass trading</string>
+    <string name="strategy_title_contest_demo">Demo: Depth of Market</string>
+    <string name="take_profit">take profit</string>
+    <string name="title">Name</string>
+    <string name="tokenExchange">Exchange Token</string>
+    <string name="tokenSandbox">Sandbox Token</string>
+    <string name="tutorial_page_0">For the instrument, you can calculate the average value of the volume in orders</string>
+    <string name="tutorial_page_1">Sometimes orders are placed that are orders of magnitude higher than this value - anomalous</string>
+    <string name="tutorial_page_2">When an order is in the center of the order book, there is a high probability that sellers (or buyers) will not be able to immediately fill this order</string>
+    <string name="tutorial_page_3">Then there is a small price bounce.</string>
+    <string name="tutorial_page_4">When the robot issues an anomalous order in the order book, it places its own in front of it</string>
+    <string name="tutorial_page_5">The task of the robot: to make money on a rebound from an anomalous order</string>
+    <string name="tutorial_page_6">Robot parameters</string>
+</resources>
